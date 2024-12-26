@@ -22,7 +22,7 @@ if not cookies.ready():
 usuarios = {
     "admin": "adminpass",
     "Presidencia": "Bolsa2030",
-    "Salvador": "dslegari",
+    "Salvador": "dslesgari",
     "Amendieta": "Mat0710",
     "Antonio":"esgaridc",
     "Ernesto":"dirgenesg",

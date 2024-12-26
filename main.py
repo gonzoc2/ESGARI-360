@@ -200,11 +200,11 @@ if 'autenticado' in cookies and cookies['autenticado'] == 'true':
     in_gasfin = ['INGRESO', 'GASTOS FINANCIEROS']
     proyectos_activos_oh_p = [5001, 3201, 3002, 2003, 7901, 1001, 1003, 2001, 7806, 8002, 8003, 8004, 7702, 4002, 7902]
     nombre_proyectos_oh_p = ['MANZANILLO', 'CONTINENTAL', 'CENTRAL OTROS', 'FLEX SPOT', 'WH', 'CHALCO', 'ARRAYANES', 
-                            'FLEX DEDICADO', 'INTERNACIONAL FWD', 'OFICINAS LUNA', 'PATIO', 'OFICINAS ANDARES', 'KRAF', 'BAJIO', 'ALMACEN NP']
+                            'FLEX DEDICADO', 'INTERNACIONAL FWD', 'OFICINAS LUNA', 'PATIO', 'OFICINAS ANDARES', 'KRAFT', 'BAJIO', 'ALMACEN NP']
     proyecto_dict_oh_p = dict(zip(proyectos_activos_oh_p, nombre_proyectos_oh_p))
     proyectos_activos = [5001, 3201, 3002, 2003, 7901, 1001, 1003, 2001, 7806, 7702, 4002, 7902]
     nombre_proyectos_activos = ['MANZANILLO', 'CONTINENTAL', 'CENTRAL OTROS', 'FLEX SPOT', 'WH', 'CHALCO', 'ARRAYANES', 
-                            'FLEX DEDICADO', 'INTERNACIONAL FWD', 'KRAF', 'BAJIO' , 'ALMACEN NP']
+                            'FLEX DEDICADO', 'INTERNACIONAL FWD', 'KRAFT', 'BAJIO' , 'ALMACEN NP']
     empresas = [0, 10, 20, 30, 40, 50]
 
     nombre_empresas = ['ESGARI','ESGARI HOLDING MEXICO, S.A. DE C.V.', 'RESA MULTIMODAL, S.A. DE C.V', 
